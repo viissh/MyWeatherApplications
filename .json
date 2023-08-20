@@ -1,0 +1,23 @@
+[
+    {'name': 'Dhanbad', 'local_names': {'ur': 'دھنباد', 'en': 'Dhanbad', 'bn': 'ধানবাদ', 'ar': 'دنباد', 'ta': 'தன்பாத்', 'pa': 'ਧਨਬਾਦ', 'mr': 'धनब
+ाद', 'hi': 'धनबाद', 'he': 'דנבאד', 'ru': 'Дханбад', 'kn': 'ಧನ್ಬಾದ್', 'ps': 'دان اباد', 'zh': '丹巴德', 'ja': 'ダンバード', 'fa': 'دانباد', 'te'
+: 'ధన్\u200cబాద్', 'ml': 'ധൻബാദ്', 'uk': 'Дханбад'
+        }, 'lat': 23.7952809, 'lon': 86.4309638, 'country': 'IN', 'state': 'Jharkhand'
+    }
+]
+
+
+{'coord': {'lon': 86.431, 'lat': 23.7953
+    }, 
+    'weather': [
+        {'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'
+        }
+    ],
+    'base': 'stations', 
+    'main': {'temp': 33.03, 'feels_like': 37.88, 'temp_min': 33.03, 'temp_max': 33.03, 'pressure': 1003, 'humidity': 55, 'sea_level': 1003, 'grnd_level': 977
+    }, 
+    'visibility': 10000, 'wind': {'speed': 6, 'deg': 155, 'gust': 6.95
+    }, 'clouds': {'all': 100
+    }, 'dt': 1692516476, 'sys': {'country': 'IN', 'sunrise': 1692489095, 'sunset': 1692535465
+    }, 'timezone': 19800, 'id': 1272979, 'name': 'Dhanbad', 'cod': 200
+}
